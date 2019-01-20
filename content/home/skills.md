@@ -37,6 +37,6 @@ weight = 7
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = 
+  description = "0%"
 
 +++
