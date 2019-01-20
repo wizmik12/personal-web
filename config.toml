@@ -15,7 +15,7 @@ title = "Mike"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "academic"
+theme = "forest"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -52,27 +52,23 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Miguel Lopez"
+  role = "Phd Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Granada University", url = "www.ugr.es" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
+  email = "mlopezp@ugr.es"
+  address = "Granada"
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+ 
+  skype = ""
+  telegram = "wizmik12"
   keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
@@ -122,7 +118,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "wizmik12"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
