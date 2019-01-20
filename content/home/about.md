@@ -29,4 +29,4 @@ weight = 5
 
 # Biography
 
-I am a PhD student in Visual Information Processing Group of Granada University (UGR). My thesis topic is about probabilistic models for cancer detection in histopathology images.
+I am a first year PhD student in the Visual Information Processing Group of Granada University (UGR). My thesis topic is about probabilistic modelling for cancer detection in histopathology images.
