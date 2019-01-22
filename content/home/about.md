@@ -29,4 +29,4 @@ weight = 5
 
 # Biography
 
-I am a first year PhD student in the Visual Information Processing Group of Granada University (UGR). My thesis topic is about probabilistic modelling for cancer detection in histopathology images.
+I am a first year PhD student working in the [Visual Information Processing Group](https://decsai.ugr.es/vip/index.html) of Granada University (UGR). My research line is "Video & Image Processing and Classification. Computer Vision". Specifically, my thesis topic is about probabilistic modelling for cancer detection in histopathology images. My thesis advisor is [Rafael Molina Soriano](https://decsai.ugr.es/~rms/).
