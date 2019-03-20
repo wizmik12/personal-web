@@ -44,5 +44,5 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   focal_point = "Smart"
 +++
 
-[logo](featured.jpg)
+
 The Fluxions is a divulgation project.
