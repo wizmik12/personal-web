@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "The fluxions"
+title = "The Fluxions"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -24,10 +24,10 @@ external_link = "https://thefluxions.github.io/"
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+# url_pdf = ""
+# url_slides = ""
+# url_video = ""
+#url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
