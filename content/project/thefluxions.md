@@ -43,3 +43,5 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+The Fluxions is a divulgation project.
