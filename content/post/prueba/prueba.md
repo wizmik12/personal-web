@@ -145,4 +145,6 @@ Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the ses
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
 
-![logo](logo.jpg)
+![logo](static/img/logo.jpg)
+
+$$a_2\int^a_b$$
