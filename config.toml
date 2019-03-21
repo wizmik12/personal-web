@@ -307,8 +307,7 @@ enableGitInfo = false
   url = "post/"
   weight = 3
 
-
-  [[menu.main]]
+[[menu.main]]
   name = "Talks"
   url = "/talk"
   weight = 4
