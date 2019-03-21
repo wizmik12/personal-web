@@ -309,18 +309,23 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "/projects"
+  weight = 5
+  
+  [[menu.main]]
+  name = "Talks"
+  url = "/talk"
   weight = 4
 
 [[menu.main]]
   name = "Tutorials"
   url = "tutorial/"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
