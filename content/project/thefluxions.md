@@ -8,6 +8,8 @@ date = 2016-04-27T00:00:00
 # Project summary to display on homepage.
 summary = "The podcast that Newton would listen to below the tree."
 
+image_preview = "featured.jpg"
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Divulgation"]
