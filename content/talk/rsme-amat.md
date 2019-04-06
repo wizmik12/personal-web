@@ -16,7 +16,7 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "static/img/rmse-amat/rsme-amat1.jpeg"
+image = "/img/rmse-amat/rsme-amat1.jpeg"
 caption = ""
 
 +++
