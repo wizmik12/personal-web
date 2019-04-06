@@ -1,10 +1,10 @@
 +++
-date = "2017-01-01T00:00:00"
+date = "2019-03-29"
 title = "III Jornada RSME-AMAT: The Fluxions in live"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
+event = "III Jornada RSME-AMAT"
+event_url = "https://www.rsme.es/2019/03/jornada-rsme-amat-4/"
 location = "Granada, Spain"
 
 selected = false
@@ -16,9 +16,9 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "static/img/rmse-amat/"
-caption = "My caption :smile:"
+image = "static/img/rmse-amat/rsme-amat1.jpeg"
+caption = ""
 
 +++
 
-Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. 
+
