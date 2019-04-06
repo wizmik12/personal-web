@@ -1,5 +1,5 @@
 +++
-date = "2019-03-29"
+date = "2019-03-29T13:00:00"
 title = "III Jornada RSME-AMAT: The Fluxions in live"
 abstract = ""
 abstract_short = ""
