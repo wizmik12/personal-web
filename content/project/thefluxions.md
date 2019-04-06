@@ -35,7 +35,7 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[featured.jpg]
+image = "featured.jpg"
   # Caption (optional)
   caption = "Photo by rawpixel on Unsplash"
   
