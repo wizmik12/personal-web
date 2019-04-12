@@ -1,5 +1,6 @@
 +++
 date = "2019-04-01T17:45:00"
+time_start = 2019-04-27T17:45:00
 title = "Artificial intelligence: your face is similar to it"
 abstract = "In this talk I will talk about how the facial recognition works and what could be its impact in our lifes."
 abstract_short = ""
