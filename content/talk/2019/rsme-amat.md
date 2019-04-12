@@ -1,7 +1,7 @@
 +++
 date = "2019-03-29T13:00:00"
-title = "III Jornada RSME-AMAT: The Fluxions in live"
-abstract = "The Fluxions recorded an episode in live."
+title = "III Jornada RSME-AMAT: The Fluxions"
+abstract = "The Fluxions recorded an episode in live about Maryam Mirzakhani and Karen Uhlenbeck. Winners of the Fields Medal and Abel Prize, respectively."
 abstract_short = ""
 event = "III Jornada RSME-AMAT"
 event_url = "https://www.rsme.es/2019/03/jornada-rsme-amat-4/"
