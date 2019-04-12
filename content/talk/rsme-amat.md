@@ -21,4 +21,6 @@ caption = ""
 
 +++
 
+This event called "Jornada RSME-AMAT" is focus on mathematical divulgation. It is organized together between Student Mathematical Association (AMAT) of Granada University  (UGR) and the Royal Mathematical Spanish Society (RSME). 
 
+This time, (The Fluxions)[thefluxions.github.io] our divugaltive podcast was recording in live. We talked about the latest and firsts women that won the highest mathematical prizes: Abel Prize and Fields Medal. 
