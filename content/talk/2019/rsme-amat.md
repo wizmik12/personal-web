@@ -9,6 +9,7 @@ location = "Granada, Spain"
 
 selected = false
 math = true
+tags = ["Divulgation"]
 
 url_pdf = ""
 url_slides = ""
