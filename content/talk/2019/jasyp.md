@@ -1,5 +1,5 @@
 +++
-date = "2019-03-29T13:00:00"
+date = "2019-03-27T17:45:00"
 title = "Artificial intelligence: your face is similar to it "
 abstract = "Facial recognition is a very current topic. In particular, most smartphones and multinational companies 
 have software capable of detecting and identifying faces in images. In this talk we will give an intuition to 
