@@ -1,6 +1,7 @@
 +++
-date = "2019-04-27T17:45:00"
+date = "2019-04-1T17:45:00"
 title = "Artificial intelligence: your face is similar to it"
+time_start = 2030-06-01T13:00:00
 abstract = "In this talk I will talk about how the facial recognition works and what it could be its impact in our lifes."
 abstract_short = ""
 event = "JASYP '19 (Jornadas de Anonimato, Seguridad y Privacidad)"
