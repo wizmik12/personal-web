@@ -22,7 +22,9 @@ caption = ""
 
 +++
 
-<img src="/img/jasyp/jasyp1.jpeg" alt="" width="100"/>
+<img src="/img/jasyp/jasyp1.jpeg" alt="" width="300"/>
+<img src="/img/jasyp/jasyp2.jpeg" alt="" width="300"/>
+<img src="/img/jasyp/jasyp3.jpeg" alt="" width="300"/>
 
 <table>
 <thead>
