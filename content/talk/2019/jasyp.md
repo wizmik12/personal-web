@@ -21,3 +21,26 @@ image = "jasyp/Jasyp-header.PNG"
 caption = ""
 
 +++
+
+<img src="/img/jasyp/jasyp1.jpeg" alt="" width="100"/>
+
+<table>
+<thead>
+<tr>
+	<th>Texto</th>
+	<th>Imagen</th>
+</tr>
+</thead>
+<tr>
+	<td>Test</td>
+	<td><img src="/img/jasyp/jasyp1.jpeg"/></td>
+</tr>
+<tr>
+	<td>Descargar</td>
+	<td><img src="/img/jasyp/jasyp2.jpeg"/></td>
+</tr>
+<tr>
+	<td>Curso</td>
+	<td><img src="/img/jasyp/jasyp3.jpeg"/></td>
+</tr>
+</table>
