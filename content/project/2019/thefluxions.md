@@ -28,8 +28,10 @@ math = false
 image = ""
 caption = ""
 
+
+
 +++
 
-<img src="/img/featured.jpg" alt="" width="100"/>
+![logo_banner](https://raw.githubusercontent.com/thebooort/Personal-Blog/master/static/img/fluxea.jpg)
 
 The Fluxions is a divulgation project.
