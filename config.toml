@@ -73,7 +73,7 @@ enableGitInfo = false
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
-
+ 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
@@ -299,7 +299,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "publications/"
   weight = 2
 
 [[menu.main]]
