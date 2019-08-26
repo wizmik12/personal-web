@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "SICAP"
 
 # Project summary to display on homepage.
-summary = "Enhancement, classification and interpretation of histological images of cancer project."
+summary = "Enhancement, classification and interpretation of histological images of cancer."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "featured.jpg"
