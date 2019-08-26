@@ -1,5 +1,5 @@
 +++
-date = "2019-06-21T17:45:00"
+date = "2019-06-21T10:15:00"
 title = "Gutting Keras"
 abstract = "Deep Learning is usually considered as a black-box model. We are going to made some visualizations for the understanding in deep neural networks like CNNs and RNNs."
 abstract_short = ""
