@@ -18,12 +18,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Msc in Data Science and Computer engineering"
-  institution = "Granada University"
+  institution = "University of Granada"
   year = 2018
 
 [[education.courses]]
   course = "Bsc in Mathematics"
-  institution = "Granada Univervisity"
+  institution = "University of Granada"
   year = 2017
 +++
 
