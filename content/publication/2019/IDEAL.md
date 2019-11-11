@@ -5,7 +5,7 @@ title = "Classifying Prostate Histological Images Using Deep Gaussian Processes 
 date = "2019-07-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ángel E. Esteban", "Miguel López-Pérez", "Adrián Colomer", "María A. Sales", "Rafael Molina", "Valery Naranjo"]
+authors = ["Miguel López-Pérez", "Adrián Colomer", "María A. Sales", "Rafael Molina", "Valery Naranjo"]
 
 # Publication type.
 # Legend:
