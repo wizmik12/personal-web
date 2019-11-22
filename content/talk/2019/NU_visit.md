@@ -12,17 +12,17 @@ math = true
 tags = ["gaussian processes"]
 
 url_pdf = ""
-url_slides = "file/2019/slides/Introduction_to_GPs .pdf"
+url_slides = "/file/2019/slides/Introduction_to_GPs .pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "WhatsApp Image 2019-11-22 at 22.50.46.jpeg"
+image = "/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg"
 caption = ""
 
 +++
 
 
-<img src="/img/rsme-amat/WhatsApp Image 2019-11-22 at 22.50.45.jpeg" alt="" width="300"/>
+<img src="/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.45.jpeg" alt="" width="300"/>
 
 In my visit to the [IVPL](https://ivpl.northwestern.edu/) lab in Northwestern University I gave a talk on gaussian processes.
