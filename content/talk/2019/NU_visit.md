@@ -17,7 +17,7 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg"
+image = "2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg"
 caption = ""
 
 +++
