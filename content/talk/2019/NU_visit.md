@@ -17,12 +17,12 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg"
+image = "2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.44.jpeg"
 caption = ""
 
 +++
 
 
-
-
+<img src="2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg" alt="" width="100"/>
+<img src="2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.44.jpeg" alt="" width="100"/>
 In my visit to the [IVPL](https://ivpl.northwestern.edu/) lab in Northwestern University I gave a talk on gaussian processes.
