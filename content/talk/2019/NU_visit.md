@@ -22,7 +22,4 @@ caption = ""
 
 +++
 
-
-<img src="/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.46.jpeg" alt="" width="100"/>
-<img src="/img/2019/Northwestern/WhatsApp Image 2019-11-22 at 22.50.44.jpeg" alt="" width="100"/>
 In my visit to the [IVPL](https://ivpl.northwestern.edu/) lab in Northwestern University I gave a talk on gaussian processes.
