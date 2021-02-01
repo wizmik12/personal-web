@@ -9,7 +9,7 @@ location = "Granada, Spain"
 
 selected = false
 math = true
-tags = ["Dissemination", "The Fluxions"]
+tags = ["Dissemination", "the-fluxions"]
 
 url_pdf = ""
 url_slides = ""
