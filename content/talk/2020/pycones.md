@@ -14,6 +14,7 @@ math = true
 url_pdf = "https://github.com/andreamorgar/poesIA"
 url_slides = "https://github.com/andreamorgar/poesIA/blob/master/slides.pdf"
 url_video = "https://www.youtube.com/watch?v=0C96vAa9NHY&t"
+url_code = "https://github.com/andreamorgar/poesIA"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
