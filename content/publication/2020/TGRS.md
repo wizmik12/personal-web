@@ -18,6 +18,7 @@ authors = ["Miguel López-Pérez", "Luz García", "Carmen Benítez",
 # 5 = Book
 # 6 = Book chapter
 publication_types = ["2"]
+#
 
 # Publication name and optional abbreviated version.
 publication = "*IEEE Transactions on Geoscience and Remote Sensing*. September 2020. "
