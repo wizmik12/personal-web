@@ -9,7 +9,7 @@ title = "The Fluxions"
 summary = "The podcast that Newton would listen to below the tree."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "featured.jpg"
+image_preview = "featured.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
