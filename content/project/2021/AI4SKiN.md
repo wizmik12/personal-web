@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2021"
 
 # Project title.
 title = "AI4SkIN"
