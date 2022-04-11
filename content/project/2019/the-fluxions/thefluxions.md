@@ -13,7 +13,7 @@ summary = "The podcast that Newton would listen to below the tree."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Dissemination", "the-fluxions"]
+tags = ["Communication", "the-fluxions"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://thefluxions.github.io/"
@@ -25,8 +25,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+#image = ""
+#caption = ""
 
 
 
